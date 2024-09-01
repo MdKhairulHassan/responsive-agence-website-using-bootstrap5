@@ -1,0 +1,444 @@
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .container{
+    width: 950px;
+  }
+ .banner_overly{
+  padding-top: 130px;
+  padding-bottom: 150px;
+ }
+  .banner_text h1{
+	font-size: 45px;
+ }
+  .banner_text p{
+	padding: 20px 0;
+ }
+ .counter_left_text h3 {
+	font-size: 27px;
+}
+.counter_item h3 {
+  font-size: 43px;
+  text-align: center;
+	padding-top: 40px;
+  padding-bottom: 20px;
+}
+.counter_item p{
+  text-align: center;
+  font-size: 13px;
+}
+  .pl_extra h3{
+	margin-left: 0;
+ }
+  .pl_extra p{
+	margin-left: 0;
+ }
+ .service_head_text p{
+  padding: 0;
+ }
+ .service_item {
+  padding: 25px;
+ }
+ .work_head_text p {
+	padding: 0;
+  padding-bottom: 50px;
+}
+.work_icon img {
+  padding-top: 10px;
+	width: 293px;
+}
+.work_text h3 {
+	font-size: 18px;
+}
+.choice_head_text h3 {
+	padding: 0px;
+}
+.choice_head_text p {
+	padding: 0;
+  margin-bottom: 60px;
+}
+.choice_img img {
+	width: 300px;
+  padding-top: 30px;
+}
+.client_head_text p {
+	padding: 0;
+}
+.client_item{
+	padding: 20px;
+}
+#agenc_form{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.form_head_text h3 {
+	padding-top: 80px;
+}
+.form_head_text p {
+	padding-bottom: 50px;
+}
+.main_form form {
+	width: 450px;
+}
+.text_with_head h3 {
+	line-height: 30px;
+}
+.text_with_head p {
+	font-size: 12px;
+}
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+   .container{
+    width: 720px;
+  }
+  .banner_overly{
+  padding-top: 130px;
+  padding-bottom: 150px;
+ }
+  .navbar-toggler {
+    border: 3px solid #6A4DF4;
+  }
+  .navbar-toggler i{
+    color: #6A4DF4;
+    font-size: 50px;
+  }
+  .navbar-nav{
+    background: #694df4a0;
+    text-align: center;
+    border-radius: 10px;
+  }
+  .contact_btn{
+    text-align: center;
+  }
+  .contact_btn a{
+    background: #694df4d5;
+    width: 100%;
+  }
+  .banner_text h1 {
+	font-size: 45px;
+ }
+  .banner_text p {
+	padding: 0;
+ }
+ .rsp-col-head{
+  width: 50%
+ }
+ .counter_left_text p{
+  text-align: center;
+}
+ .counter_left_text h3 {
+  text-align: center;
+	font-size: 34px;
+}
+.counter_item h3 {
+  text-align: center;
+	padding-top: 40px;
+  padding-bottom: 20px;
+}
+.counter_item p{
+  text-align: center;
+}
+  .pl_extra h3{
+	margin-left: 0;
+ }
+  .pl_extra p{
+	margin-left: 0;
+ }
+ .service_head_text p{
+  padding: 0;
+ }
+ .service_item {
+  padding: 25px;
+ }
+ .work_head_text p {
+	padding: 0;
+  padding-bottom: 50px;
+}
+.work_icon img {
+  padding-top: 10px;
+	width: 330px;
+}
+.choice_head_text h3 {
+	padding: 0px;
+}
+.choice_head_text p {
+	padding: 0;
+  margin-bottom: 60px;
+}
+.rsp-col{
+  width: 33%;
+}
+.choice_img img {
+	width: 438px;
+  padding-top: 30px;
+}
+.client_head_text p {
+	padding: 0;
+}
+.client_item {
+	padding: 20px;
+}
+.form_head_text h3 {
+	padding-top: 80px;
+}
+.form_head_text p {
+	padding-bottom: 50px;
+}
+.main_form form {
+	width: 350px;
+}
+#agenc_form{
+  padding-top: 100px;
+}
+.text_with_head h3 {
+	margin-top: 50px;
+  font-size: 18px;
+}
+.text_with_head p {
+	margin-top: 15px;
+  font-size: 14px;
+}
+.rsp h3{
+	margin-top: 50px;
+  margin-left: 50px;
+}
+.rsp p{
+  margin-left: 50px;
+}
+.rspextra{
+  margin-top: 50px;
+}
+.rsp-col-ft{
+  width: 25%;
+}
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+   .container{
+    width: 530px;
+  }
+  .banner_overly{
+  padding-top: 130px;
+  padding-bottom: 150px;
+ }
+  .navbar-toggler {
+    border: 3px solid #6A4DF4;
+  }
+  .navbar-toggler i{
+    color: #6A4DF4;
+    font-size: 50px;
+  }
+  .navbar-nav{
+    background: #694df4a0;
+    text-align: center;
+    border-radius: 10px;
+  }
+  .contact_btn{
+    text-align: center;
+  }
+  .contact_btn a{
+    background: #694df4d5;
+    width: 100%;
+  }
+  .banner_text h1 {
+	font-size: 45px;
+ }
+  .banner_text p {
+	padding: 20px 0;
+ }
+ .counter_left_text h3 {
+  text-align: center;
+	font-size: 39px;
+}
+ .counter_left_text p {
+  text-align: center;
+}
+.counter_item h3 {
+  text-align: center;
+	padding-top: 40px;
+  padding-bottom: 20px;
+}
+.counter_item p {
+  text-align: center;
+}
+  .pl_extra h3{
+	margin-left: 0;
+ }
+  .pl_extra p{
+	margin-left: 0;
+ }
+ .service_head_text p{
+  padding: 0;
+ }
+ .service_item {
+  padding: 25px;
+ }
+ .work_head_text p {
+	padding: 0;
+  padding-bottom: 50px;
+}
+.work_icon img {
+  padding-top: 10px;
+	width: 500px;
+}
+.choice_head_text h3 {
+	padding: 0px;
+}
+.choice_head_text p {
+	padding: 0;
+}
+.choice_img img {
+	width: 438px;
+  padding-top: 30px;
+}
+.client_head_text p {
+	padding: 0;
+}
+.client_item {
+	padding: 20px;
+}
+.form_head_text h3 {
+	padding-top: 0;
+}
+.form_head_text p {
+	padding-bottom: 50px;
+}
+.main_form form {
+	width: 525px;
+}
+.text_with_head p {
+	margin-top: 15px;
+}
+.rsp h3{
+	margin-top: 50px;
+  margin-left: 50px;
+}
+.rsp p{
+  margin-left: 50px;
+}
+.rspextra{
+  margin-top: 50px;
+}
+ }
+
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 320px) and (max-width: 575.98px) {
+  .container{
+    width: 300px;
+  }
+  .banner_overly{
+  padding-top: 130px;
+  padding-bottom: 150px;
+ }
+  .navbar-toggler {
+    border: 3px solid #6A4DF4;
+  }
+  .navbar-toggler i{
+    color: #6A4DF4;
+    font-size: 50px;
+  }
+  .navbar-nav{
+    background: #694df4a0;
+    text-align: center;
+    border-radius: 10px;
+  }
+  .contact_btn{
+    text-align: center;
+  }
+  .contact_btn a{
+    background: #694df4d5;
+    width: 100%;
+  }
+  .banner_text h1 {
+	font-size: 45px;
+ }
+  .banner_text p {
+	padding: 10px 0;
+ }
+ .counter_left_text h3 {
+	font-size: 34px;
+}
+.counter_item h3 {
+	padding-top: 40px;
+  padding-bottom: 20px;
+  font-size: 40px;
+}
+  .pl_extra h3{
+	margin-left: 0;
+ }
+  .pl_extra p{
+	margin-left: 0;
+ }
+ .service_head_text h3{
+  font-size: 43px;
+  line-height: 50px;
+ }
+ .service_head_text p{
+  padding: 0;
+ }
+ .service_item {
+  padding: 25px;
+ }
+ .work_head_text h3 {
+	font-size: 33px;
+}
+ .work_head_text p {
+	padding: 0;
+  padding-bottom: 50px;
+}
+.work_text h3 {
+	line-height: 30px;
+}
+.work_icon img {
+  padding-top: 10px;
+	width: 270px;
+}
+.choice_head_text h3 {
+	padding: 0px;
+  font-size: 34px;
+}
+.choice_head_text p {
+	padding: 0;
+}
+.choice_img img {
+	width: 270px;
+  padding-top: 30px;
+}
+.client_head_text p {
+	padding: 0;
+}
+.client_item {
+	padding: 20px;
+}
+.form_head_text h3 {
+	padding-top: 0;
+}
+.form_head_text p {
+	padding-bottom: 50px;
+}
+.main_form form {
+	width: 290px;
+  padding: 30px;
+}
+.text_with_head p {
+	margin-top: 15px;
+}
+.rsp h3{
+	margin-top: 50px;
+  margin-left: 50px;
+}
+.rsp p{
+  margin-left: 50px;
+}
+.rspextra{
+  margin-top: 50px;
+}
+.footer_last_text h4{
+  font-size: 18px;
+}
+}
