@@ -25,8 +25,23 @@ h1,h2,h3,h4,h5,h6,p{
   top: 0;
   left: 0;
   width: 100%;
-  background: #694df44c;
 }
+
+/* Sticky Header Start */
+.sticky_header{
+  background: #694df44c;
+  animation: alamin 1s;
+}
+@keyframes alamin{
+  from{
+    top: -200px;
+  }
+  to{
+    top: 0;
+  }
+}
+/* Sticky Header End */
+
 .nav-link {
   color: #fff;
   font-family: "Inter", sans-serif;
